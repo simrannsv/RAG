@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Who won the first IPL in 2008?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "{}",
+    "latency": 42.97,
+    "response_type": "supportai",
+    "answered_question": true
+  },
+  {
+    "question": "Which team has won the most IPL titles?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "{}",
+    "latency": 1.39,
+    "response_type": "supportai",
+    "answered_question": true
+  },
+  {
+    "question": "Who has scored the most runs in IPL history?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Who has taken the most wickets in IPL history?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which player has hit the most sixes in IPL?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which players have played for both Mumbai Indians and Chennai Super Kings?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which captains have won the IPL more than once?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which players won both the Orange Cap and were in the winning team the same year?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which venues have hosted more than 3 IPL finals?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which overseas players have played under both MS Dhoni and Rohit Sharma?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which players were part of both the 2008 and 2014 IPL winning teams?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which coaches have worked with more than one IPL franchise?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which players have won both IPL and ICC World Cup in the same year?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which teams have had the same captain for more than 5 seasons?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which players were retained across the 2021 and 2022 mega auction?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "What connection exists between Suresh Raina and MS Dhoni across IPL seasons?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "How are Jasprit Bumrah and Rohit Sharma connected across tournaments?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which players have been bought at the highest price in multiple different auctions?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which franchise owners have connections to Bollywood?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  },
+  {
+    "question": "Which players have represented more than 5 different IPL teams?",
+    "pipeline": "Graph-Basic",
+    "graph": "IPL",
+    "answer": "Error: Could not connect to GraphRAG at http://localhost:8000/ui/IPL/query. Check that the service is running and reachable.",
+    "latency": 0,
+    "response_type": null,
+    "answered_question": false
+  }
+]

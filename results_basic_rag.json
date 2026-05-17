@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Who won the first IPL in 2008?",
+    "pipeline": "Basic-RAG",
+    "answer": "The context provided does not mention the winner of the first IPL in 2008. It only mentions the performance of the Delhi Daredevils during the 2008 IPL season.",
+    "latency": 0.47,
+    "tokens": 213,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which team has won the most IPL titles?",
+    "pipeline": "Basic-RAG",
+    "answer": "The Chennai Super Kings and the Mumbai Indians are joint-most successful IPL franchises, having won five IPL titles each.",
+    "latency": 0.93,
+    "tokens": 453,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Who has scored the most runs in IPL history?",
+    "pipeline": "Basic-RAG",
+    "answer": "The text does not explicitly state who has scored the most runs in IPL history. It mentions Virat Kohli scoring 973 runs in a tournament, the highest ever in IPL history, and Rohit Sharma being the leading run-scorer for a specific franchise, but it does not provide a comprehensive ranking of the top run-scorers in IPL history.",
+    "latency": 1.62,
+    "tokens": 456,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Who has taken the most wickets in IPL history?",
+    "pipeline": "Basic-RAG",
+    "answer": "The context does not provide information about the most wickets taken in IPL history. It only provides information about the leading wicket-taker of a specific tournament (23 wickets) and the most wickets taken in a single edition of the tournament (27 wickets), but it does not provide a comprehensive list of the top wicket-takers in IPL history.",
+    "latency": 2.46,
+    "tokens": 400,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which player has hit the most sixes in IPL?",
+    "pipeline": "Basic-RAG",
+    "answer": "The text doesn't explicitly state who has hit the most sixes in IPL. However, it mentions several records related to sixes in the IPL, including Chris Gayle's record of 13 sixes in an innings and Jos Buttler's 45 sixes in the 2022 season. But to determine the player with the most sixes overall, we would need more information or a cumulative total of sixes hit by each player, which is not provided.",
+    "latency": 1.91,
+    "tokens": 503,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which players have played for both Mumbai Indians and Chennai Super Kings?",
+    "pipeline": "Basic-RAG",
+    "answer": "The text does not explicitly mention which players have played for both Mumbai Indians and Chennai Super Kings. It only mentions the rivalry and the matches between these two teams, and individual player awards and performances, but does not provide information about players who have played for both teams.",
+    "latency": 1.28,
+    "tokens": 529,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which captains have won the IPL more than once?",
+    "pipeline": "Basic-RAG",
+    "answer": "The text does not explicitly mention the captains who have won the IPL more than once. However, it mentions that the Chennai Super Kings and the Mumbai Indians have won the IPL more than once, with the Chennai Super Kings winning it consecutively under an unspecified captain, and the Mumbai Indians also winning it consecutively, but the captain is not mentioned.",
+    "latency": 0.63,
+    "tokens": 552,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which players won both the Orange Cap and were in the winning team the same year?",
+    "pipeline": "Basic-RAG",
+    "answer": "The context provided does not have information about the teams that won the IPL or the players who won the Orange Cap and were part of the winning team in the same year. However, it can be determined that the information about Williamson and Sai Sudharsan is available. Williamson won the Orange Cap with 735 runs in a season where his team had 10 wins and 7 losses, but the context does not specify if his team won the IPL. Sai Sudharsan scored 759 runs, but the context does not mention if he won the Orange Cap or if his team won the IPL. Therefore, based on the context, it is not possible to provide a list of players who won both the Orange Cap and were in the winning team the same year.",
+    "latency": 1.17,
+    "tokens": 578,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which venues have hosted more than 3 IPL finals?",
+    "pipeline": "Basic-RAG",
+    "answer": "The provided context does not mention any venue hosting more than 3 IPL finals, however, it can be inferred that no venue has been explicitly mentioned to have hosted more than 3 IPL finals, but it does mention Kolkata will be hosting its third IPL final.",
+    "latency": 0.64,
+    "tokens": 342,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which overseas players have played under both MS Dhoni and Rohit Sharma?",
+    "pipeline": "Basic-RAG",
+    "answer": "The given context does not provide information about players who have played under both MS Dhoni and Rohit Sharma. However, some overseas players mentioned are Andrew Symonds, Gilchrist, Chris Morris, Sam Billings, and Joel Paris, but their captains are not specified. One player who might fit this criteria is Shane Watson or Jos Buttler, but the context does not explicitly state they played under both captains.",
+    "latency": 0.81,
+    "tokens": 381,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which players were part of both the 2008 and 2014 IPL winning teams?",
+    "pipeline": "Basic-RAG",
+    "answer": "The information provided does not mention the 2008 IPL winning team or the 2014 IPL winning team. It only mentions that the team won the IPL second edition in 2009, which was held in South Africa. Therefore, it is not possible to determine which players were part of both the 2008 and 2014 IPL winning teams based on the provided context.",
+    "latency": 0.5,
+    "tokens": 345,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which coaches have worked with more than one IPL franchise?",
+    "pipeline": "Basic-RAG",
+    "answer": "Based on the provided context, the answer is Rahul Dravid and Ricky Ponting. Rahul Dravid worked as a coach for Delhi Daredevils and also for India A and India U-19. Ricky Ponting has worked with Delhi Daredevils, and potentially other franchises, although the information is not explicitly stated in the given context.",
+    "latency": 0.64,
+    "tokens": 272,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which players have won both IPL and ICC World Cup in the same year?",
+    "pipeline": "Basic-RAG",
+    "answer": "There is not enough information provided to give a specific answer to the question. The context only mentions that a team won the IPL second edition in 2009, which was held in South Africa, but does not provide information about the ICC World Cup winners in 2009.",
+    "latency": 0.59,
+    "tokens": 201,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which teams have had the same captain for more than 5 seasons?",
+    "pipeline": "Basic-RAG",
+    "answer": "The provided context does not contain information about teams that have had the same captain for more than 5 seasons. It only discusses the captaincy record of one team, mentioning captains like Adam Gilchrist, Rohit Sharma, Kumar Sangakkara, and Cameron White, but does not compare this information to other teams.",
+    "latency": 0.62,
+    "tokens": 395,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which players were retained across the 2021 and 2022 mega auction?",
+    "pipeline": "Basic-RAG",
+    "answer": "The context provided does not mention the players retained across the 2021 and 2022 mega auction. However, it does mention the players retained by a team for the 2022 season, which includes the core of Sharma, Bumrah, Pollard, and Yadav. But it does not provide information about the 2021 mega auction.",
+    "latency": 0.73,
+    "tokens": 540,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "What connection exists between Suresh Raina and MS Dhoni across IPL seasons?",
+    "pipeline": "Basic-RAG",
+    "answer": "The connection between Suresh Raina and MS Dhoni across IPL seasons is that they are teammates, and MS Dhoni is ahead of Suresh Raina in terms of the number of matches played in the IPL. Suresh Raina became the fourth player to play 200 matches in the IPL, with MS Dhoni being one of the players ahead of him in this milestone.",
+    "latency": 0.67,
+    "tokens": 542,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "How are Jasprit Bumrah and Rohit Sharma connected across tournaments?",
+    "pipeline": "Basic-RAG",
+    "answer": "The provided context does not mention Rohit Sharma explicitly in relation to Jasprit Bumrah across tournaments. However, it can be inferred that both Jasprit Bumrah and Rohit Sharma are connected as they both play for the Indian national team and Mumbai Indians in the IPL, although the context only mentions Bumrah's performance in the IPL and his overall cricket career.",
+    "latency": 0.81,
+    "tokens": 617,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which players have been bought at the highest price in multiple different auctions?",
+    "pipeline": "Basic-RAG",
+    "answer": "Based on the context provided, the following players have been bought at the highest price in multiple different auctions: \n\n1. None of the players have been mentioned to be bought at the highest price in multiple auctions, however, Mumbai Indians have bought the most expensive players in two separate auctions - Kieron Pollard in 2010 and Ishan Kishan in 2022.",
+    "latency": 0.73,
+    "tokens": 423,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which franchise owners have connections to Bollywood?",
+    "pipeline": "Basic-RAG",
+    "answer": "Kailash Singhal, the owner of Film Waves, has a connection to Bollywood, as 'Film Waves' suggests involvement in the film industry.",
+    "latency": 0.5,
+    "tokens": 283,
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "Which players have represented more than 5 different IPL teams?",
+    "pipeline": "Basic-RAG",
+    "answer": "The provided context does not contain information about players who have represented more than 5 different IPL teams. It discusses team history, early IPL seasons, player retention rules, and squad formation, but does not provide specific details about individual players who have played for multiple teams.",
+    "latency": 0.63,
+    "tokens": 486,
+    "chunks_retrieved": 5
+  }
+]

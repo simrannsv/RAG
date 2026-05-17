@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Who won the first IPL in 2008?",
+    "pipeline": "LLM-Only",
+    "answer": "The Rajasthan Royals won the first IPL in 2008, defeating the Chennai Super Kings in the final.",
+    "latency": 2.11,
+    "tokens": 87
+  },
+  {
+    "question": "Which team has won the most IPL titles?",
+    "pipeline": "LLM-Only",
+    "answer": "The Mumbai Indians have won the most IPL titles, with 5 championships (2013, 2015, 2017, 2019, and 2020).",
+    "latency": 1.09,
+    "tokens": 100
+  },
+  {
+    "question": "Who has scored the most runs in IPL history?",
+    "pipeline": "LLM-Only",
+    "answer": "Virat Kohli has scored the most runs in IPL history. He has scored over 6,400 runs in the tournament, playing for Royal Challengers Bangalore.",
+    "latency": 39.54,
+    "tokens": 99
+  },
+  {
+    "question": "Who has taken the most wickets in IPL history?",
+    "pipeline": "LLM-Only",
+    "answer": "Dwayne Bravo has taken the most wickets in IPL history with 183 wickets, but he is closely followed by Yuzvendra Chahal and Amit Mishra, however, as of my cut-off date, the record might have changed.",
+    "latency": 1.11,
+    "tokens": 118
+  },
+  {
+    "question": "Which player has hit the most sixes in IPL?",
+    "pipeline": "LLM-Only",
+    "answer": "Chris Gayle holds the record for the most sixes hit in the Indian Premier League (IPL), with 357 sixes.",
+    "latency": 0.61,
+    "tokens": 94
+  },
+  {
+    "question": "Which players have played for both Mumbai Indians and Chennai Super Kings?",
+    "pipeline": "LLM-Only",
+    "answer": "Some notable players who have played for both Mumbai Indians and Chennai Super Kings include:\n\n1. Robin Uthappa\n2. Dwayne Smith\n3. Andrew Symonds\n4. Thisara Perera\n5. Irfan Pathan\n6. Michael Hussey\n7. Jacob Oram \n8. Ben Hilfenhaus",
+    "latency": 0.65,
+    "tokens": 137
+  },
+  {
+    "question": "Which captains have won the IPL more than once?",
+    "pipeline": "LLM-Only",
+    "answer": "The captains who have won the IPL more than once are:\n\n1. Rohit Sharma (Mumbai Indians) - 5 times (2013, 2015, 2017, 2019, 2020)\n2. Mahendra Singh Dhoni (Chennai Super Kings) - 4 times (2010, 2011, 2018, 2021)",
+    "latency": 19.02,
+    "tokens": 145
+  },
+  {
+    "question": "Which players won both the Orange Cap and were in the winning team the same year?",
+    "pipeline": "LLM-Only",
+    "answer": "The players who have achieved this feat are:\n\n1. Shane Watson (2008) - Rajasthan Royals\n2. Chris Gayle (2011) - Royal Challengers Bangalore, but they were runners up that year, however they were the table toppers.\n3. Robin Uthappa (2014) - Kolkata Knight Riders \n4. David Warner (2016) - Sunrisers Hyderabad",
+    "latency": 1.01,
+    "tokens": 153
+  },
+  {
+    "question": "Which venues have hosted more than 3 IPL finals?",
+    "pipeline": "LLM-Only",
+    "answer": "The M.A. Chidambaram Stadium in Chennai has hosted 2 IPL finals, but the venues that have hosted more than 3 IPL finals are:\n\n1. M. A. Chidambaram Stadium is not one of them, \n2. The Wankhede Stadium in Mumbai has hosted 6 IPL finals and \n3. The Eden Gardens in Kolkata does not qualify with just 2 finals, but \n4. The Narendra Modi Stadium (previously known as the Sardar Patel Stadium or the Motera Stadium) in Ahmedabad qualifies with its hosting of the 2022 and the 2023 IPL finals in addition to an IPL final in 2014, however, with only 3.",
+    "latency": 0.85,
+    "tokens": 213
+  },
+  {
+    "question": "Which overseas players have played under both MS Dhoni and Rohit Sharma?",
+    "pipeline": "LLM-Only",
+    "answer": "Some overseas players who have played under both MS Dhoni (CSK) and Rohit Sharma (MI) are:\n\n1. Dwayne Bravo\n2. Andrew Flintoff \n3. Ben Hilfenhaus \n4. Matthew Hayden \n5. Albie Morkel and \n6. Dwayne Smith.",
+    "latency": 0.58,
+    "tokens": 134
+  },
+  {
+    "question": "Which players were part of both the 2008 and 2014 IPL winning teams?",
+    "pipeline": "LLM-Only",
+    "answer": "The Rajasthan Royals won the 2008 IPL, and the Kolkata Knight Riders did not win in 2008, but they won in 2014 (as well as 2012). However, one player was part of both the 2008 Rajasthan Royals and the 2014 Kolkata Knight Riders: Yusuf Pathan and Shane Watson were not in both the specific winning teams (Watson was part of the 2008 Rajasthan Royals) and so were not in both, but a player in the 2008 Royals and then playing in 2014 for KKR was: \n\nYusuf's brother Irfan's teammate in the Royals Shane Watson's fellow player in Royals -  Irfan was not in Royals in 2014 but -  Shane Watson was in Royals in 2008 but, Irfan was a Royals player in 2008 and though not in the 2014 winning team - was - Irfan's fellow 2008 Royals and fellow KKR 2014 player was: \nIrfan and Yusuf Pathan were fellow teammates at KKR in 2014 but, the specific player common to both 2008 RR and 2014 KKR winning teams is actually: \nKallis was part of the 2014 KKR side but, not part of the original 2008 IPL RR side that won it and a fellow KKR player of the winning side of 2014 KKR that was in the 2008 winning Royals side was: \nNo but actually there is, the answer to the specific query: \nYusuf Pathan's fellow Royals teammate of the 2008 winning side and who played and won for 2014 KKR side - this one specific player is indeed - the answer, to the precise question being: \nThe specific player who won in both the 2008 RR side and 2014 KKR side being asked about and common to both is indeed: \nThe actual and specific and only player in both the IPL winning sides being asked - common to both the 2008 winning IPL Rajasthan Royals and 2014 IPL winning side the Kolkata Knight Riders - being the very and actual player: \nYusuf Pathan.",
+    "latency": 3.94,
+    "tokens": 526
+  },
+  {
+    "question": "Which coaches have worked with more than one IPL franchise?",
+    "pipeline": "LLM-Only",
+    "answer": "Several coaches have worked with more than one IPL franchise. Some notable examples include:\n\n1. Tom Moody - He has coached Kings XI Punjab (now Punjab Kings), Sunrisers Hyderabad, and Mumbai Indians.\n2. Stephen Fleming - Fleming has coached Chennai Super Kings and Rising Pune Supergiant (now defunct).\n3. Robin Singh - He has coached Mumbai Indians, Deccan Chargers (now defunct), and Royal Challengers Bangalore.\n4. Paddy Upton - Upton has coached Rajasthan Royals, Pune Warriors India (now defunct), and Royal Challengers Bangalore.\n5. Daniel Vettori - Vettori has coached Royal Challengers Bangalore and Brisbane Heat is not an IPL team, but he has also worked as a coach with the RCB, and also was the coach of the UAE national side, he was the coach of the Royal Challengers Bangalore in the IPL.\n6. Gary Kirsten - Kirsten has coached Delhi Daredevils (now Delhi Capitals) and Royal Challengers Bangalore.\n7. Anil Kumble - Kumble has coached Royal Challengers Bangalore and Mumbai Indians.\n8. Trevor Bayliss - Bayliss has coached Kolkata Knight Riders and Sunrisers Hyderabad.\n\nThese coaches have brought valuable experience and expertise to multiple franchises in the IPL.",
+    "latency": 1.11,
+    "tokens": 327
+  },
+  {
+    "question": "Which players have won both IPL and ICC World Cup in the same year?",
+    "pipeline": "LLM-Only",
+    "answer": "There are two instances where players have achieved this feat:\n\n1. In 2011, the Indian national team won the ICC Cricket World Cup, and the Chennai Super Kings (CSK) won the IPL. The players who were part of both teams include:\n   - MS Dhoni\n   - Suresh Raina\n   - Ravichandran Ashwin\n   - Murali Vijay\n\n2. In 2013, the Mumbai Indians (MI) won the IPL, and in 2013, no ICC World Cup was held, but the Indian national team won the ICC Champions Trophy. However, the 2015 ICC Cricket World Cup was not won by India, but in 2011, the Mumbai Indians did not win. But the Mumbai Indians did win the 2013 IPL and 2013 Champions Trophy winners included:\n   - Rohit Sharma\n\nHowever, considering the players who have won both the IPL and the ICC World Cup in the same year (2011), the answer is:\n- MS Dhoni\n- Suresh Raina\n- Ravichandran Ashwin\n- Murali Vijay",
+    "latency": 1.23,
+    "tokens": 304
+  },
+  {
+    "question": "Which teams have had the same captain for more than 5 seasons?",
+    "pipeline": "LLM-Only",
+    "answer": "Two teams in the Indian Premier League (IPL) have had the same captain for more than 5 seasons: \n\n1. MS Dhoni (Chennai Super Kings) - 2008-2015, 2018-2022 (14 seasons, with a 2-year break)\n2. Virat Kohli (Royal Challengers Bangalore) - 2013-2021 (9 seasons, excluding the 2017 season where he was injured)",
+    "latency": 0.63,
+    "tokens": 164
+  },
+  {
+    "question": "Which players were retained across the 2021 and 2022 mega auction?",
+    "pipeline": "LLM-Only",
+    "answer": "Before the 2022 IPL mega auction, each team was allowed to retain a maximum of 4 players. Here are the retained players for each team:\n\n1. Chennai Super Kings - Ravindra Jadeja, MS Dhoni, Moeen Ali, Ruturaj Gaikwad\n2. Delhi Capitals - Rishabh Pant, Prithvi Shaw, Axar Patel, Anrich Nortje\n3. Kolkata Knight Riders - Andre Russell, Varun Chakravarthy, Venkatesh Iyer, Sunil Narine\n4. Mumbai Indians - Rohit Sharma, Jasprit Bumrah, Suryakumar Yadav, Kieron Pollard\n5. Punjab Kings - Mayank Agarwal, Arshdeep Singh\n6. Rajasthan Royals - Sanju Samson, Jos Buttler, Yashasvi Jaiswal\n7. Royal Challengers Bangalore - Virat Kohli, Glenn Maxwell, Mohammed Siraj\n8. Sunrisers Hyderabad - Kane Williamson, Abdul Samad, Umran Malik",
+    "latency": 1.0,
+    "tokens": 287
+  },
+  {
+    "question": "What connection exists between Suresh Raina and MS Dhoni across IPL seasons?",
+    "pipeline": "LLM-Only",
+    "answer": "Suresh Raina and MS Dhoni have been teammates in the Indian Premier League (IPL) for most of the seasons, playing together for the Chennai Super Kings (CSK) from 2008 to 2015 and then again from 2018 to 2021, after the team's two-year suspension. They are considered one of the most successful and iconic batting duos in the IPL.",
+    "latency": 1.0,
+    "tokens": 156
+  },
+  {
+    "question": "How are Jasprit Bumrah and Rohit Sharma connected across tournaments?",
+    "pipeline": "LLM-Only",
+    "answer": "Jasprit Bumrah and Rohit Sharma are connected as teammates in the Indian Premier League (IPL), playing for the Mumbai Indians (MI) team. Rohit Sharma is the captain of MI, and Jasprit Bumrah has been a key bowler for the team.",
+    "latency": 2.36,
+    "tokens": 129
+  },
+  {
+    "question": "Which players have been bought at the highest price in multiple different auctions?",
+    "pipeline": "LLM-Only",
+    "answer": "Yuvraj Singh holds the record for being bought at the highest price in multiple auctions. He was purchased by:\n\n1. Delhi Daredevils (2015) - \u20b916 crores\n2. Royal Challengers Bangalore (2014) - \u20b914 crores\n3. Kings XI Punjab (2018, but was released before the season) and then bought by Mumbai Indians was not the case as - \u20b92 crores (his base price) and then also \n4. Sunrisers Hyderabad (2016) and also Delhi Daredevils - \u20b97 crores \n\nHowever in 2014 - \u20b914 crores and in 2015 - \u20b916 crores were the most expensive buys in respective auctions.",
+    "latency": 1.32,
+    "tokens": 217
+  },
+  {
+    "question": "Which franchise owners have connections to Bollywood?",
+    "pipeline": "LLM-Only",
+    "answer": "Several IPL franchise owners have connections to Bollywood. These include:\n\n1. Preity Zinta (co-owner of Punjab Kings) - Bollywood actress\n2. Shah Rukh Khan (co-owner of Kolkata Knight Riders) - Bollywood actor\n3. Juhi Chawla (co-owner of Kolkata Knight Riders) - Bollywood actress\n4. Shilpa Shetty (co-owner of Rajasthan Royals, previously) - Bollywood actress \n\nThese owners bring a mix of cricket and entertainment to the IPL.",
+    "latency": 0.74,
+    "tokens": 164
+  },
+  {
+    "question": "Which players have represented more than 5 different IPL teams?",
+    "pipeline": "LLM-Only",
+    "answer": "Two players have represented more than 5 different IPL teams: \n\n1. Dinesh Karthik (6 teams: Delhi Daredevils, Kings XI Punjab, Mumbai Indians, Royal Challengers Bangalore, Gujarat Lions, and Kolkata Knight Riders)\n2. Parthiv Patel (6 teams: Chennai Super Kings, Mumbai Indians, Deccan Chargers, Kochi Tuskers Kerala, Sunrisers Hyderabad, and Royal Challengers Bangalore)",
+    "latency": 0.93,
+    "tokens": 157
+  }
+]

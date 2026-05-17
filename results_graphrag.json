@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Who won the first IPL in 2008?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which team has won the most IPL titles?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Who has scored the most runs in IPL history?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Who has taken the most wickets in IPL history?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which player has hit the most sixes in IPL?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which players have played for both Mumbai Indians and Chennai Super Kings?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which captains have won the IPL more than once?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which players won both the Orange Cap and were in the winning team the same year?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which venues have hosted more than 3 IPL finals?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which overseas players have played under both MS Dhoni and Rohit Sharma?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which players were part of both the 2008 and 2014 IPL winning teams?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which coaches have worked with more than one IPL franchise?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which players have won both IPL and ICC World Cup in the same year?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which teams have had the same captain for more than 5 seasons?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which players were retained across the 2021 and 2022 mega auction?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "What connection exists between Suresh Raina and MS Dhoni across IPL seasons?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "How are Jasprit Bumrah and Rohit Sharma connected across tournaments?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which players have been bought at the highest price in multiple different auctions?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which franchise owners have connections to Bollywood?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  },
+  {
+    "question": "Which players have represented more than 5 different IPL teams?",
+    "pipeline": "GraphRAG",
+    "answer": "Exception: get() got an unexpected keyword argument 'json'",
+    "latency": 0.0,
+    "tokens": 0
+  }
+]
